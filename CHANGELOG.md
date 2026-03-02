@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/timo-reymann/github-serve-flow/compare/1.0.1...1.0.2) (2026-03-02)
+
+### Bug Fixes
+
+* Trigger release ([950c9d9](https://github.com/timo-reymann/github-serve-flow/commit/950c9d98a915c14fa954a54b56e2916151c4a720))
+
 ## [1.0.1](https://github.com/timo-reymann/github-serve-flow/compare/1.0.0...1.0.1) (2026-03-02)
 
 ### Bug Fixes
