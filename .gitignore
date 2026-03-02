@@ -1,0 +1,17 @@
+# Binary
+github-serve-flow
+/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Test
+coverage.out
+
+# Worktrees
+.worktrees/
