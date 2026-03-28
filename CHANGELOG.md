@@ -1,3 +1,9 @@
+## [1.0.3](https://github.com/timo-reymann/github-serve-flow/compare/1.0.2...1.0.3) (2026-03-28)
+
+### Bug Fixes
+
+* Optimize container layers ([032e009](https://github.com/timo-reymann/github-serve-flow/commit/032e0098b19d29973d9d6641e96bfdf9ed5c71b2))
+
 ## [1.0.2](https://github.com/timo-reymann/github-serve-flow/compare/1.0.1...1.0.2) (2026-03-02)
 
 ### Bug Fixes
