@@ -4,7 +4,7 @@ COPY go.mod ./
 COPY *.go ./
 RUN go build -o github-serve-flow .
 
-FROM alpine:3.20
+FROM alpine:3.23
 
 RUN apk add --no-cache ca-certificates
 
