@@ -1,3 +1,9 @@
+## [1.0.5](https://github.com/timo-reymann/github-serve-flow/compare/1.0.4...1.0.5) (2026-10-25)
+
+### Bug Fixes
+
+* Add tag ranges ([899f3b6](https://github.com/timo-reymann/github-serve-flow/commit/899f3b65cc6325c153bd0d78a7c2864f1701193b))
+
 ## [1.0.4](https://github.com/timo-reymann/github-serve-flow/compare/1.0.3...1.0.4) (2026-03-28)
 
 ### Bug Fixes
